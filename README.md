@@ -1,6 +1,6 @@
 # Pong Ball Game 🛸
 
-A classic 2D Pong implementation built using **Python** and **Pygame**. This project features a simple AI opponent, smooth paddle movement, and a custom UFO-themed icon.
+A classic 2D Pong implementation built using **Python** and **Pygame**. This project features a simple Automated opponent, smooth paddle movement, and a custom UFO-themed icon.
 
 ## 🚀 Features
 * **Dynamic Ball Physics:** Randomized start directions and wall/paddle reflections.
